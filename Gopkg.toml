@@ -35,3 +35,7 @@
 
 [metadata.heroku]
   root-package = "github.com/dylankbuckley/counterjobs"
+
+[[constraint]]
+  name = "github.com/mongodb/mongo-go-driver"
+  version = "0.2.0"
